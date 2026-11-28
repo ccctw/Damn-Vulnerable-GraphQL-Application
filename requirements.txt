@@ -12,7 +12,7 @@ Flask-SocketIO==5.3.2
 Flask-SQLAlchemy==3.0.2
 gevent==22.10.2
 gevent-websocket==0.10.1
-graphene==2.1.9
+graphene==3.4.3
 graphene-sqlalchemy==2.3.0
 graphql-core==2.3.2
 graphql-relay==2.0.1
